@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+button{
+    background-color: white;
+    color: black;
+}
+body{
+    background-color: lightpink;
+}
